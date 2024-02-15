@@ -1,7 +1,7 @@
 # Bienvenue sur mon profil GitHub !
 
 <div id="header" align="center">
-  <img src="https://giphy.com/clips/work-computer-laptop-1u01IRKm3cKUH4GU1U" width="100"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </div>
 
 Salut ! Je suis Tom Boudeville, un passionné de programmation et de développement de logiciels. Je suis toujours à la recherche de nouveaux défis et j'aime explorer de nouvelles technologies.
