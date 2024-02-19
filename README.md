@@ -1,47 +1,18 @@
 # Bienvenue sur mon profil GitHub !
-
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <div id="header" align="center">
-    <img src="https://images.squarespace-cdn.com/content/v1/6414d051b255b77e28f6d34a/1683122060801-QF97MDJH0MWFSL3Q13TB/Expression_1.gif?format=500w" width="400"/>
-  </div>
+<div id="header" align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/6414d051b255b77e28f6d34a/1683122060801-QF97MDJH0MWFSL3Q13TB/Expression_1.gif?format=500w" width="400"/>
+</div>
 
-
-Salut ! Je suis Tom Boudeville, un passionné de programmation et de développement de logiciels. Je suis toujours à la recherche de nouveaux défis et j'aime explorer de nouvelles technologies.
 
 ## <span style="color: #ff4d4d;">À propos de moi</span>
+Salut ! Je suis Tom Boudeville, un passionné de programmation et de développement de logiciels. Je suis toujours à la recherche de nouveaux défis et j'aime explorer de nouvelles technologies.
 
 - 🎓 Actuellement étudiant en informatique
 - 💻 Passionné par le développement web et mobile
 - 🌱 Toujours en train d'apprendre de nouvelles choses
 
 ## <span style="color: #66ccff;">Langages et outils</span>
-
-Je suis à l'aise avec plusieurs langages de programmation et outils, notamment :
-
-- JavaScript / TypeScript
-- Python
-- HTML / CSS
-- React
-- Node.js
-- Git
-
-## <span style="color: #99ff99;">Projets récents</span>
-
-Voici quelques-uns des projets sur lesquels j'ai récemment travaillé :
-
-- [Nom du projet](lien_vers_le_projet) : Description succincte du projet.
-- [Nom du projet](lien_vers_le_projet) : Description succincte du projet.
-- [Nom du projet](lien_vers_le_projet) : Description succincte du projet.
-
-N'hésitez pas à explorer mes dépôts pour en savoir plus sur mes travaux !
-
-## <span style="color: #ffcc00;">Contact</span>
-
-Vous pouvez me contacter par email à [ton@email.com] ou me suivre sur [Twitter](lien_vers_ton_profil_twitter) pour rester à jour sur mes activités.
-
-Merci d'avoir visité mon profil GitHub !
-
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -62,7 +33,26 @@ Merci d'avoir visité mon profil GitHub !
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> 
+    <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
+
+
+## <span style="color: #99ff99;">Projets récents</span>
+
+Voici quelques-uns des projets sur lesquels j'ai récemment travaillé :
+
+- [Nom du projet](lien_vers_le_projet) : Description succincte du projet.
+- [Nom du projet](lien_vers_le_projet) : Description succincte du projet.
+- [Nom du projet](lien_vers_le_projet) : Description succincte du projet.
+
+N'hésitez pas à explorer mes dépôts pour en savoir plus sur mes travaux !
+
+## <span style="color: #ffcc00;">Contact</span>
+
+Vous pouvez me contacter par email à [ton@email.com] ou me suivre sur [Twitter](lien_vers_ton_profil_twitter) pour rester à jour sur mes activités.
+
+Merci d'avoir visité mon profil GitHub !
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
