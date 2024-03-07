@@ -17,6 +17,15 @@
   - 💻 Passionné par le développement de systèmes automatisé et la recherche dans l'intelligence artificielle
   - 🌱 Toujours en train d'apprendre de nouvelles choses
 
+
+<div style="">
+    <a style="width: 40%; height: 200px;" href="https://open.spotify.com/user/it82gff8oensoelz6gkmh3ig9">
+        <img src="https://novatorem.vercel.app/api/spotify?background_color=111111&border_color=0000ff" alt="Spotify" >
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Boudeville&layout=compact" alt="Top Langs" style="width: 40%; height: 200px;">
+</div>
+
+
   ## <span style="color: #66ccff;">Langages et outils</span>
   <p align="center"> 
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> 
@@ -60,10 +69,3 @@
 <div id='footer' align ="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
-
-
-<img align="left" alt="Tom's stat" src="https:/github-readme-stats-toms-projects-b001a90d.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-
-
-[![Spotify](https://novatorem-toms-projects-b001a90d.vercel.app/api/spotify)](https://open.spotify.com/user/Totom)
-
