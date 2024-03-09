@@ -16,13 +16,14 @@
   - 🎓 Actuellement étudiant en informatique
   - 💻 Passionné par le développement de systèmes automatisé et la recherche dans l'intelligence artificielle
   - 🌱 Toujours en train d'apprendre de nouvelles choses
+  - 🎶 J'adore la musique !
 
 
-<div style="">
+<div>
     <a style="width: 40%; height: 200px;" href="https://open.spotify.com/user/it82gff8oensoelz6gkmh3ig9">
-        <img src="https://novatorem.vercel.app/api/spotify?background_color=111111&border_color=0000ff" alt="Spotify" >
+        <img style="height: 125px" src="https://novatorem.vercel.app/api/spotify?background_color=111111&border_color=0000ff" alt="Spotify" >
     </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Boudeville&layout=compact" alt="Top Langs" style="width: 40%; height: 200px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tom-Boudeville&layout=compact" alt="Top Langs" style="width: 40%; height: 125px;">
 </div>
 
 
